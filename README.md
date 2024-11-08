@@ -2,6 +2,4 @@
 - 💻 Geeck
 - 🐍 Python Developer
 - 😈 Hacker
-  
-
-Telegram id -> @abolfazl_salehigg
+- Embedded System Developer
